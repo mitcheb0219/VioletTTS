@@ -1,0 +1,20 @@
+[
+  {
+    Author: 'Flabber Babble',
+    Name: 'Violet TTS',
+    Description: 'AFF14 Chat to Discord Webhook',
+    InternalName: 'VioletTTS',
+    AssemblyVersion: '1.0.0.0',
+    TestingAssemblyVersion: null,
+    RepoUrl: 'https://github.com/mitcheb0219/VioletTTS/tree/main/bin/x64/Release',
+    ApplicableVersion: 'any',
+    DalamudApiLevel: 10,
+    Punchline: 'Text to Voice in Discord',
+    IsHide: false,
+    IsTestingExclusive: false,
+    DownloadLinkInstall: 'https://github.com/mitcheb0219/VioletTTS/blob/main/bin/x64/Release/VioletTTS/latest.zip',
+    DownloadLinkTesting: 'https://github.com/mitcheb0219/VioletTTS/blob/main/bin/x64/Release/VioletTTS/latest.zip',
+    DownloadLinkUpdate: 'https://github.com/mitcheb0219/VioletTTS/blob/main/bin/x64/Release/VioletTTS/latest.zip',
+    LastUpdate: '1701231234',
+  },
+]
