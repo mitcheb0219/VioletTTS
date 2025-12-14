@@ -6,7 +6,7 @@
     InternalName: 'VioletTTS',
     AssemblyVersion: '1.0.0.0',
     TestingAssemblyVersion: null,
-    RepoUrl: 'https://github.com/mitcheb0219/VioletTTS/tree/main/bin/x64/Release',
+    RepoUrl: 'https://github.com/mitcheb0219/VioletTTS/tree/main/bin/x64/Release/VioletTTS',
     ApplicableVersion: 'any',
     DalamudApiLevel: 10,
     Punchline: 'Text to Voice in Discord',
@@ -17,4 +17,5 @@
     DownloadLinkUpdate: 'https://github.com/mitcheb0219/VioletTTS/blob/main/bin/x64/Release/VioletTTS/latest.zip',
     LastUpdate: '1701231234',
   },
+
 ]
