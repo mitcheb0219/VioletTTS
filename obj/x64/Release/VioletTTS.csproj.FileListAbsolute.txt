@@ -1,0 +1,9 @@
+C:\Users\mitch\OneDrive\Documents\GitHub\Violet_TTS\VioletTTS\bin\x64\Release\goat.png
+C:\Users\mitch\OneDrive\Documents\GitHub\Violet_TTS\VioletTTS\bin\x64\Release\VioletTTS.deps.json
+C:\Users\mitch\OneDrive\Documents\GitHub\Violet_TTS\VioletTTS\bin\x64\Release\VioletTTS.dll
+C:\Users\mitch\OneDrive\Documents\GitHub\Violet_TTS\VioletTTS\obj\x64\Release\VioletTTS.csproj.AssemblyReference.cache
+C:\Users\mitch\OneDrive\Documents\GitHub\Violet_TTS\VioletTTS\obj\x64\Release\VioletTTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitch\OneDrive\Documents\GitHub\Violet_TTS\VioletTTS\obj\x64\Release\VioletTTS.AssemblyInfoInputs.cache
+C:\Users\mitch\OneDrive\Documents\GitHub\Violet_TTS\VioletTTS\obj\x64\Release\VioletTTS.AssemblyInfo.cs
+C:\Users\mitch\OneDrive\Documents\GitHub\Violet_TTS\VioletTTS\obj\x64\Release\VioletTTS.csproj.CoreCompileInputs.cache
+C:\Users\mitch\OneDrive\Documents\GitHub\Violet_TTS\VioletTTS\obj\x64\Release\VioletTTS.dll

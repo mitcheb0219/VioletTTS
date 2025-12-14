@@ -1,0 +1,20 @@
+{
+  "Author": "Flabber Babble (Battle Friend)",
+  "Name": "VioletTTS",
+  "InternalName": "VioletTTS",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Monitors selected chat channels along with character name to send messages to Discord TTS",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Violet",
+    "BattleFriend",
+    "TTS"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "SPEECH",
+  "AcceptsFeedback": true
+}

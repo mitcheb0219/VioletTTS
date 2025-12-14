@@ -1,0 +1,12 @@
+{
+  "Author": "Flabber Babble (Battle Friend)",
+  "Name": "VioletTTS",
+  "Punchline": "SPEECH",
+  "Description": "Monitors selected chat channels along with character name to send messages to Discord TTS",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Violet",
+    "BattleFriend",
+    "TTS"
+  ]
+}

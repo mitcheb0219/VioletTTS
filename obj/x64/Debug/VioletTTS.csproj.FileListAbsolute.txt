@@ -1,0 +1,9 @@
+C:\Users\mitch\OneDrive\Documents\GitHub\VioletTTS_Dalamud\SamplePlugin\bin\x64\Debug\goat.png
+C:\Users\mitch\OneDrive\Documents\GitHub\VioletTTS_Dalamud\SamplePlugin\bin\x64\Debug\VioletTTS.deps.json
+C:\Users\mitch\OneDrive\Documents\GitHub\VioletTTS_Dalamud\SamplePlugin\bin\x64\Debug\VioletTTS.dll
+C:\Users\mitch\OneDrive\Documents\GitHub\VioletTTS_Dalamud\SamplePlugin\obj\x64\Debug\VioletTTS.csproj.AssemblyReference.cache
+C:\Users\mitch\OneDrive\Documents\GitHub\VioletTTS_Dalamud\SamplePlugin\obj\x64\Debug\VioletTTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitch\OneDrive\Documents\GitHub\VioletTTS_Dalamud\SamplePlugin\obj\x64\Debug\VioletTTS.AssemblyInfoInputs.cache
+C:\Users\mitch\OneDrive\Documents\GitHub\VioletTTS_Dalamud\SamplePlugin\obj\x64\Debug\VioletTTS.AssemblyInfo.cs
+C:\Users\mitch\OneDrive\Documents\GitHub\VioletTTS_Dalamud\SamplePlugin\obj\x64\Debug\VioletTTS.csproj.CoreCompileInputs.cache
+C:\Users\mitch\OneDrive\Documents\GitHub\VioletTTS_Dalamud\SamplePlugin\obj\x64\Debug\VioletTTS.dll
