@@ -2,7 +2,7 @@
   {
     Author: 'Flabber Babble',
     Name: 'Violet TTS',
-    Description: 'AFF14 Chat to Discord Webhook',
+    Description: 'FF14 Chat to Discord Webhook',
     InternalName: 'VioletTTS',
     AssemblyVersion: '1.0.0.2',
     TestingAssemblyVersion: null,
@@ -19,6 +19,7 @@
   },
 
 ]
+
 
 
 
