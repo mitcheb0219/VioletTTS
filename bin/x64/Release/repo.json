@@ -8,7 +8,7 @@
     TestingAssemblyVersion: null,
     RepoUrl: 'https://github.com/mitcheb0219/VioletTTS/tree/main',
     ApplicableVersion: 'any',
-    DalamudApiLevel: 10,
+    DalamudApiLevel: 13,
     Punchline: 'Text to Voice in Discord',
     IsHide: false,
     IsTestingExclusive: false,
@@ -19,6 +19,7 @@
   },
 
 ]
+
 
 
 
