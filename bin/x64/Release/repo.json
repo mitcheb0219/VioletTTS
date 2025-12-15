@@ -4,7 +4,7 @@
     Name: 'Violet TTS',
     Description: 'AFF14 Chat to Discord Webhook',
     InternalName: 'VioletTTS',
-    AssemblyVersion: '1.0.0.0',
+    AssemblyVersion: '1.0.0.1',
     TestingAssemblyVersion: null,
     RepoUrl: 'https://github.com/mitcheb0219/VioletTTS/tree/main',
     ApplicableVersion: 'any',
@@ -19,5 +19,6 @@
   },
 
 ]
+
 
 
